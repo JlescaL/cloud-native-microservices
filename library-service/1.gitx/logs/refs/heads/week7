@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 634392a5d85f62e0793a94ca72f8a45431b93016 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568998378 +0530	branch: Created from HEAD
+634392a5d85f62e0793a94ca72f8a45431b93016 16c8410b7ebfd3ff4f5b52e44ee2cb6c41c9fa1e Ajay Rabidas <ajay.rabidas@mastercard.com> 1569739882 +0530	commit: added feign client and ribbon config

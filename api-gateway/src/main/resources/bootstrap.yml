@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: api-gateway
+  cloud:
+    config:
+      discovery:
+        service-id: config-server
+
+  profiles:
+    active:
+      - DEFAULT
+
+

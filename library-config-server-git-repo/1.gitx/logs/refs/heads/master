@@ -1,0 +1,27 @@
+0000000000000000000000000000000000000000 f7db9f4df9c08d44eb3e3d311e8d75d9334f927e Ajay Rabidas <ajay.rabidas@mastercard.com> 1563709721 +0530	clone: from https://KumaarJai@bitbucket.org/crystalark/library-config-server-git-repo.git
+f7db9f4df9c08d44eb3e3d311e8d75d9334f927e e3141c7c629c0ef77f902f605025fe7ea73cdac3 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563713294 +0530	commit: initial commit
+e3141c7c629c0ef77f902f605025fe7ea73cdac3 b76bb5ec2882307b613e1a50feb93797a0057d73 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563714472 +0530	commit: changes
+b76bb5ec2882307b613e1a50feb93797a0057d73 116506b3f4d02739f80576a338c00d47c2fe6d9f Ajay Rabidas <ajay.rabidas@mastercard.com> 1563789601 +0530	commit: added h2 support to dev
+116506b3f4d02739f80576a338c00d47c2fe6d9f b76bb5ec2882307b613e1a50feb93797a0057d73 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563789621 +0530	origin/master: updating HEAD
+b76bb5ec2882307b613e1a50feb93797a0057d73 d17255383ded09c7bc4498feac9481ba795cdf14 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563790162 +0530	commit: added h2 support to dev
+d17255383ded09c7bc4498feac9481ba795cdf14 b76bb5ec2882307b613e1a50feb93797a0057d73 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563790200 +0530	origin/master: updating HEAD
+b76bb5ec2882307b613e1a50feb93797a0057d73 54b30a97717465c9e60bb34000fffa4b07d78145 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563790571 +0530	commit: added h2 support to dev
+54b30a97717465c9e60bb34000fffa4b07d78145 b76bb5ec2882307b613e1a50feb93797a0057d73 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563790727 +0530	origin/master: updating HEAD
+b76bb5ec2882307b613e1a50feb93797a0057d73 fb78c37bf90c46ea7f77b00bcff22c9b67c9caf3 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563790885 +0530	commit: h2 support added
+fb78c37bf90c46ea7f77b00bcff22c9b67c9caf3 b76bb5ec2882307b613e1a50feb93797a0057d73 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563790906 +0530	origin/master: updating HEAD
+b76bb5ec2882307b613e1a50feb93797a0057d73 52ada9b40223952463ca96e8e1c21067b6f06cc8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563791165 +0530	commit: h2 enabled
+52ada9b40223952463ca96e8e1c21067b6f06cc8 b76bb5ec2882307b613e1a50feb93797a0057d73 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563791284 +0530	origin/master: updating HEAD
+b76bb5ec2882307b613e1a50feb93797a0057d73 903158b6876b5dc891d808d4562dabc4ff6fa013 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563791365 +0530	commit: xx
+903158b6876b5dc891d808d4562dabc4ff6fa013 37184eaea29418dd04074d608aff032be2abb2a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563791487 +0530	commit: h2
+37184eaea29418dd04074d608aff032be2abb2a8 23411a1fc31d708ab3122144d77217fc0b05ef85 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563916168 +0530	commit: h2 config
+23411a1fc31d708ab3122144d77217fc0b05ef85 37184eaea29418dd04074d608aff032be2abb2a8 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1563916196 +0530	origin/master: updating HEAD
+37184eaea29418dd04074d608aff032be2abb2a8 f277273af683bbbc1db1718a574e14fd9247bc03 Ajay Rabidas <ajay.rabidas@mastercard.com> 1563916264 +0530	commit: h2
+f277273af683bbbc1db1718a574e14fd9247bc03 fa82fcbef68df9602fc350a9c65209aaafefa4d8 Rabidas <Ajay.Rabidas@mastercard.com> 1568273771 +0530	commit: added git ignore
+fa82fcbef68df9602fc350a9c65209aaafefa4d8 7e436adc298453e73e86b2509562d1405933e949 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568288618 +0530	commit: added user service properties to config repo
+7e436adc298453e73e86b2509562d1405933e949 3f45a61043cbb17237f28ac1ca9863f64f0a062c Ajay Rabidas <ajay.rabidas@mastercard.com> 1568541410 +0530	commit: configured h2
+3f45a61043cbb17237f28ac1ca9863f64f0a062c 7e436adc298453e73e86b2509562d1405933e949 e091788 <e091788@GH-52G4YT2.corp.mastercard.org> 1568541455 +0530	origin/master: updating HEAD
+7e436adc298453e73e86b2509562d1405933e949 62af254c4738046f7ef39918e2566a4c9332ecce Ajay Rabidas <ajay.rabidas@mastercard.com> 1568995372 +0530	commit: refactored services, isolated DTOs to domain jar
+62af254c4738046f7ef39918e2566a4c9332ecce 07c72d1d03dd9caf11ae75d6cef74394c9a96e08 Ajay Rabidas <ajay.rabidas@mastercard.com> 1569665042 +0530	commit: added library service config
+07c72d1d03dd9caf11ae75d6cef74394c9a96e08 50fbc63fb2ed2f57e9a182b645aec9d2a488a2ef Ajay Rabidas <ajay.rabidas@mastercard.com> 1569738465 +0530	commit: added API Hateway config
+50fbc63fb2ed2f57e9a182b645aec9d2a488a2ef c28f1096141506862c4010e927eca3317bc5a11a Ajay Rabidas <ajay.rabidas@mastercard.com> 1569747980 +0530	commit: fixed api gateway
+c28f1096141506862c4010e927eca3317bc5a11a 011c32617c28b89695b7fb8d770822580514392c Ajay Rabidas <ajay.rabidas@mastercard.com> 1569751307 +0530	commit: fixing list of servers in library service properties

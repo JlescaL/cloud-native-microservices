@@ -1,0 +1,2 @@
+0000000000000000000000000000000000000000 e3912d7855ac2dfc0bfe50945773f4cc58657622 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567361471 +0530	commit (initial): added spring cloud config server
+e3912d7855ac2dfc0bfe50945773f4cc58657622 b7cde281f3ee8edb86baadd6f874ea98d45ace86 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568995379 +0530	commit: refactored services, isolated DTOs to domain jar

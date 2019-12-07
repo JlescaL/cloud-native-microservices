@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: book-service
+  cloud:
+    config:
+      discovery:
+        service-id: config-server
+
+  profiles:
+    active:
+      - DEV
+
+

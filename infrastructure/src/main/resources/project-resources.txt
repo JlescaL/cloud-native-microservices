@@ -1,0 +1,2 @@
+More on spring cloud: https://github.com/Netflix/
+More about eureka conf: https://github.com/Netflix/eureka/tree/master/eureka-examples/conf

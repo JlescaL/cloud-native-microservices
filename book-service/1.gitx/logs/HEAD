@@ -1,0 +1,20 @@
+0000000000000000000000000000000000000000 440868a595384bac8fbbf19a6b0ce2809096310c Ajay Rabidas <ajay.rabidas@mastercard.com> 1563565918 +0530	commit (initial): initial book-service commit
+440868a595384bac8fbbf19a6b0ce2809096310c a4964ab203c52b738e0ac78a321e72571eedd56e Ajay Rabidas <ajay.rabidas@mastercard.com> 1563567290 +0530	commit: added spring cloud dependencies
+a4964ab203c52b738e0ac78a321e72571eedd56e e17d3cb15e6fcbe5a4988faf0c13a961e5788026 Ajay Rabidas <ajay.rabidas@mastercard.com> 1564659763 +0530	commit: Week 1 over
+e17d3cb15e6fcbe5a4988faf0c13a961e5788026 82c9ef66195918f95dd3cc4c22e99f0f866afd06 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360077 +0530	commit: refactored code
+82c9ef66195918f95dd3cc4c22e99f0f866afd06 c4f5bbf74f6b5138c32aca838969ce9e215ab528 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360203 +0530	checkout: moving from week1 to master
+c4f5bbf74f6b5138c32aca838969ce9e215ab528 97544f6f9f92ccc9427c42f707559d00358de5a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360387 +0530	commit: added gitignore
+97544f6f9f92ccc9427c42f707559d00358de5a8 82c9ef66195918f95dd3cc4c22e99f0f866afd06 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360429 +0530	checkout: moving from master to week1
+82c9ef66195918f95dd3cc4c22e99f0f866afd06 82c9ef66195918f95dd3cc4c22e99f0f866afd06 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360509 +0530	reset: moving to HEAD
+82c9ef66195918f95dd3cc4c22e99f0f866afd06 97544f6f9f92ccc9427c42f707559d00358de5a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360522 +0530	checkout: moving from week1 to master
+97544f6f9f92ccc9427c42f707559d00358de5a8 97544f6f9f92ccc9427c42f707559d00358de5a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360529 +0530	reset: moving to HEAD
+97544f6f9f92ccc9427c42f707559d00358de5a8 82c9ef66195918f95dd3cc4c22e99f0f866afd06 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360694 +0530	checkout: moving from master to week1
+82c9ef66195918f95dd3cc4c22e99f0f866afd06 13c17234643999dd72af134b4fb8a2572bf615cd Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360896 +0530	merge master: Merge made by the 'recursive' strategy.
+13c17234643999dd72af134b4fb8a2572bf615cd 97544f6f9f92ccc9427c42f707559d00358de5a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360978 +0530	checkout: moving from week1 to master
+97544f6f9f92ccc9427c42f707559d00358de5a8 13c17234643999dd72af134b4fb8a2572bf615cd Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360996 +0530	merge week1: Fast-forward
+13c17234643999dd72af134b4fb8a2572bf615cd 13c17234643999dd72af134b4fb8a2572bf615cd Ajay Rabidas <ajay.rabidas@mastercard.com> 1567361183 +0530	checkout: moving from master to week1
+13c17234643999dd72af134b4fb8a2572bf615cd 8c4cd0d5d35de2e8699f720e3813ca3dd48582d8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568289233 +0530	commit: modified book service to spring 5.1.7
+8c4cd0d5d35de2e8699f720e3813ca3dd48582d8 60635ad03e4c6aa9af13eab2393d3ba7c2d1971f Ajay Rabidas <ajay.rabidas@mastercard.com> 1568995396 +0530	commit: refactored services, isolated DTOs to domain jar
+60635ad03e4c6aa9af13eab2393d3ba7c2d1971f 13c17234643999dd72af134b4fb8a2572bf615cd Ajay Rabidas <ajay.rabidas@mastercard.com> 1568998766 +0530	checkout: moving from week1 to master
+13c17234643999dd72af134b4fb8a2572bf615cd f22238186dde4e0b9ca7b29c5a71a6dcbb994569 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568998788 +0530	pull: Fast-forward
+f22238186dde4e0b9ca7b29c5a71a6dcbb994569 ee5d450f2bf904f239bb8b1c6245e067c62919cc Ajay Rabidas <ajay.rabidas@mastercard.com> 1569738632 +0530	commit: modified root api path

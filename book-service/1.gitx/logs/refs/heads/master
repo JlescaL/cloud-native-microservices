@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 c4f5bbf74f6b5138c32aca838969ce9e215ab528 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360203 +0530	branch: Created from refs/remotes/origin/master
+c4f5bbf74f6b5138c32aca838969ce9e215ab528 97544f6f9f92ccc9427c42f707559d00358de5a8 Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360387 +0530	commit: added gitignore
+97544f6f9f92ccc9427c42f707559d00358de5a8 13c17234643999dd72af134b4fb8a2572bf615cd Ajay Rabidas <ajay.rabidas@mastercard.com> 1567360996 +0530	merge week1: Fast-forward
+13c17234643999dd72af134b4fb8a2572bf615cd f22238186dde4e0b9ca7b29c5a71a6dcbb994569 Ajay Rabidas <ajay.rabidas@mastercard.com> 1568998788 +0530	pull: Fast-forward
+f22238186dde4e0b9ca7b29c5a71a6dcbb994569 ee5d450f2bf904f239bb8b1c6245e067c62919cc Ajay Rabidas <ajay.rabidas@mastercard.com> 1569738632 +0530	commit: modified root api path
